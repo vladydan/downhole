@@ -1,0 +1,3 @@
+dh_down_hole_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: DHDownHoleBundle:Default:index }
